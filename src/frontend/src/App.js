@@ -6,7 +6,7 @@ import {
     Breadcrumb,
     Table,
     Spin,
-    Empty, Button, Badge, Tag, Radio, Popconfirm
+    Empty, Button, Badge, Tag, Radio, Popconfirm, Image
 } from 'antd';
 import {
     DesktopOutlined,
@@ -215,7 +215,12 @@ function App() {
                     {renderStudents()}
                 </div>
             </Content>
-            <Footer style={{ textAlign: 'center' }}>By Ryan Nour</Footer>
+            <Footer style={{ textAlign: 'center' }}>
+                <Image
+                    width={75}
+                    src="https://user-images.githubusercontent.com/6167463/118582080-c08ad700-b760-11eb-8e44-99ff9f2c5d5e.jpg"
+                />
+            </Footer>
         </Layout>
     </Layout>
 }
