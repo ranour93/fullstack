@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75ae5ab6-d1c3-4ae7-8d62-ddf7fdeb3b23" name="Default Changelist" comment="make test fail">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/fullstack/FullstackApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/fullstack/FullstackApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="75ae5ab6-d1c3-4ae7-8d62-ddf7fdeb3b23" name="Default Changelist" comment="make test pass" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +123,7 @@
       <workItem from="1621193990594" duration="5438000" />
       <workItem from="1621264393393" duration="607000" />
       <workItem from="1621303754070" duration="732000" />
-      <workItem from="1621304518659" duration="2627000" />
+      <workItem from="1621304518659" duration="2802000" />
     </task>
     <task id="LOCAL-00001" summary="make test fail">
       <created>1621343276575</created>
@@ -135,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621343276576</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="make test pass">
+      <created>1621344090788</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621344090789</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +160,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="make test fail" />
-    <option name="LAST_COMMIT_MESSAGE" value="make test fail" />
+    <MESSAGE value="make test pass" />
+    <option name="LAST_COMMIT_MESSAGE" value="make test pass" />
   </component>
 </project>
