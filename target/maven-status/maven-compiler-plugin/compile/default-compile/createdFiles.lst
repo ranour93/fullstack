@@ -1,0 +1,8 @@
+com/example/fullstack/student/Student.class
+com/example/fullstack/student/StudentService.class
+com/example/fullstack/student/StudentController.class
+com/example/fullstack/student/exception/StudentNotFoundException.class
+com/example/fullstack/student/StudentRepository.class
+com/example/fullstack/student/Gender.class
+com/example/fullstack/FullstackApplication.class
+com/example/fullstack/student/exception/BadRequestException.class
