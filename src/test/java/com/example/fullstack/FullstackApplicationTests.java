@@ -8,6 +8,7 @@ class FullstackApplicationTests {
 
 	@Test
 	void contextLoads() {
+		Assertions.fail("Oppps test failed");
 	}
 
 }
