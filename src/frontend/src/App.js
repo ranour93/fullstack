@@ -6,7 +6,7 @@ import {
     Breadcrumb,
     Table,
     Spin,
-    Empty, Button, Badge, Tag, Radio, Popconfirm, Image
+    Empty, Button, Badge, Tag, Radio, Popconfirm, Image, Divider
 } from 'antd';
 import {
     DesktopOutlined,
@@ -220,6 +220,14 @@ function App() {
                     width={75}
                     src="https://user-images.githubusercontent.com/6167463/118582080-c08ad700-b760-11eb-8e44-99ff9f2c5d5e.jpg"
                 />
+                <Divider>
+                    <a
+                        rel="noopener noreferrer"
+                        target="_blank"
+                        href="https://amigoscode.com/courses/enrolled/553022">
+                        Click here to access Fullstack Spring Boot & React for Professionals
+                    </a>
+                </Divider>
             </Footer>
         </Layout>
     </Layout>
